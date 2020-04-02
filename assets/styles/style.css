@@ -55,6 +55,22 @@ hr {
     height: 100vh;
     padding-top: 30px;
 }
-#portfolio, #contact {
+#contact {
     background-color: chartreuse;
 }
+
+/* Portfolio section */
+.text-center {
+    width: 100%;
+    font-family: 'Exo 2', sans-serif;
+}
+#portfolio-title {
+    font-size: 32px;
+    font-weight: 600;
+}
+.card-title {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
